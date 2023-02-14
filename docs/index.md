@@ -1,17 +1,157 @@
-# Welcome to MkDocs
+---
+hide:
+  - navigation
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# SuMiTB マイクロサービスブートキャンプ
 
-## Commands
+## 基本情報
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### 日時
 
-## Project layout
+- DAY1 / DAY2 : 2023年 1月 26日〜27日（2日間）
+- DAY3 / DAY4 : 2023年 2月 27日〜28日（2日間）
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+### 開催形式
+
+- オンサイトでの開催（DAY1〜DAY4 共通）
+
+
+### 会場
+
+- 目黒アルコタワー
+
+    - アルコタワーの場所
+
+        ![](/images/venue_day1-4.png){loading="lazy" width="800"}
+
+    !!! 注意
+
+        - 1月23日(月) の 19:00 頃に、参加者各位にQRコードが記載されたアポイントメントメールが送付されております。(DAY1 / DAY2 用に１通ずつ)
+
+        - 添付のQRコードは当日利用しませんが、メールに記載されているコロナウイルス感染症拡大予防のための注意事項について、ご一読いただくようお願いいたします。
+
+
+- 会議室 : 19F 008 Techno（DAY1〜DAY4 共通）
+
+    - アルコタワー 19F マップ
+
+        ![](/images/mtg_room_day1-4.png){loading="lazy" width="800"}
+
+    - Wi-Fi 接続情報
+
+        - SSID: `guest`
+        - pass: `BrokenWires@@2019`
+
+    - 会議室内での飲食
+        - 会議室内での飲食は可能ですが、ごみは各自会場を出た通路にあるごみ箱に捨ててお帰りいただくようお願いいたします。
+
+    !!! hint
+        - メインの会議室の他に、控え室として 19F 002 Samba (19F 入館ゲート入ってすぐ右手) が利用可能ですので、もし別途会議をされる際などにはご利用ください。
+
+
+
+### 参加者名簿
+
+- `<PLACEHOLDER>`
+
+
+### 緊急連絡先
+
+- `<PLACEHOLDER>`
+
+
+## 全体スケジュール
+
+![](/images/timetable_overall.png){loading="lazy" width="800"}
+
+
+## タイムテーブル
+
+### DAY1 / DAY2
+
+![](/images/timetable_day1-2.png){loading="lazy" width="800"}
+
+
+### DAY3 / DAY4
+
+![](/images/timetable_day3-4.png){loading="lazy" width="800"}
+
+
+### セッション形式
+
+- 座学 : AWS講師がプロジェクターで画面投影し説明を行い、受講者はそれを聞いていただきます。
+- ハンズオン : AWS講師のサポートのもと、受講者が各自PCを持参しAWSアカウント上での開発作業を行っていただきます。
+- グループワーク : AWS講師のサポートのもと、受講者はホワイトボードと付箋、ペンを利用したワークを行います。
+
+
+## コンテンツ
+
+### DAY1 : サーバーレス
+
+|      | アジェンダ                                                   | 資料リンク                                                   |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| オープニング | 1. 講師紹介<br />2. DAY1 の流れ                              | <a href="/files/day1_overview.pdf" target="_blank" rel="noopener noreferrer">DAY1 はじめに</a>                          |
+| 座学         | 1. サーバーレス概要<br />　1.1. サーバーレスの基礎<br />　1.2. サーバーレスのメリット・デメリット<br />2. AWSのサーバーレスサービス<br />　2.1. サーバーレス設計のポイント<br />　2.2. AWS でのサーバーレスサービスの種類や特徴<br />　2.3. Dive Deep into the Service | <a href="/files/day1_lecture01.pdf" target="_blank" rel="noopener noreferrer">DAY1 サーバーレス 座学</a>          |
+| ハンズオン   | 1. API Gateway + LambdaによるAPIの構築<br />2. DynamoDBへのアクセス<br />3. IaC (AWS SAM) を利用したAPIの構築<br />4. イベント駆動によるLambda関数起動 | DAY1 サーバーレス ハンズオン<br />URL : <a href="https://dev.d1tg7pnrd93aw4.amplifyapp.com/" target="_blank" rel="noopener noreferrer">https://dev.d1tg7pnrd93aw4.amplifyapp.com/</a><br />ユーザーID : `sumitbmsbc`<br />パスワード : `oot4xieCh_a9`</a> |
+
+
+### DAY2 : コンテナ
+
+|      | アジェンダ                                                   | 資料リンク                                                   |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| オープニング | 1. 講師紹介<br />2. DAY2 の流れ                                 | <a href="/files/day2_overview.pdf" target="_blank" rel="noopener noreferrer">DAY2 はじめに</a>                          |
+| 座学         | 1. コンテナ概要<br />　1.1. コンテナの基礎<br />　1.2. コンテナのメリット・デメリット<br />　1.3. コンテナを支える技術<br />　1.4. コンテナに適したアプリケーション<br />2. AWSでのコンテナの利用<br />　2.1. コンピューティングサービスの選定<br />　2.2. AWSのコンテナ関連サービス | <a href="/files/day2_lecture01.pdf" target="_blank" rel="noopener noreferrer">DAY2 コンテナ 座学</a>          |
+| ハンズオン   | 1. 簡単なコンテナイメージの作成<br />2. スキーマ駆動での API 開発<br />3. Fargate での Web アプリケーションの構築<br />4. X-Ray によるトレーシングの有効化<br />5. (オプション) コンテナイメージのスキャン<br />6. (オプション) 追加の課題 | DAY2 コンテナ ハンズオン<br />URL : <a href="https://dev.d3gqlq3w0nn8pc.amplifyapp.com/" target="_blank" rel="noopener noreferrer">https://dev.d3gqlq3w0nn8pc.amplifyapp.com/</a><br />ユーザーID : `sumitbmsbc`<br />パスワード : `oot4xieCh_a9` |
+
+
+### DAY3 : マイクロサービス基礎（予定）
+
+| トピック       | アジェンダ                                                   | 資料リンク |
+| -------------- | ------------------------------------------------------------ | ---------- |
+| オープニング   | 1. 講師紹介<br />2. DAY3の流れ                               | （作成中） |
+| 座学①          | 1. マイクロサービス概要<br/>　1.1.マイクロサービスとは<br/>　1.2.マイクロサービスのメリット・デメリット<br/>　1.3.マイクロサービスの事例<br/>2. AWSへのマイクロサービスの導入<br/>　2.1.マイクロサービスデザインパターンとAWSへの適用 | （作成中） |
+| 座学②          | 3. マイクロサービスの分割と移行<br/>　3.1. マイクロサービスの分割<br/>　3.2. マイクロサービスの移行 | （作成中） |
+| グループワーク | 1. イベントストーミングによる業務ドメイン分割                | （作成中） |
+
+
+
+
+### DAY4 : マイクロサービス実践（予定）
+
+| トピック     | アジェンダ                                                   | 資料リンク |
+| ------------ | ------------------------------------------------------------ | ---------- |
+| オープニング | 1. 講師紹介<br />2. DAY4の流れ                               | （作成中） |
+| 座学①        | 1. マイクロサービスにおける分散トランザクション管理<br/>　1.1. 分散トランザクションとは<br/>　1.2. 分散トランザクションにおける考慮事項<br/>　1.3. AWSでの分散トランザクションの実現 | （作成中） |
+| 座学②        | 2. マイクロサービスにおけるテストとリリース<br/>　2.1. マイクロサービスにおけるテストやリリースの前提事項<br/>　2.2. マイクロサービスならではのテスト：CDCテスト | （作成中） |
+| ハンズオン   | 1. マイクロサービスの構築<br/>2. マイクロサービスの性能・負荷テスト | （作成中） |
+
+
+## アンケートリンク
+
+DAY2 終了後、アンケートへのご回答をお願いいたします。
+
+- `<PLACEHOLDER>`
+
+
+
+## その他
+
+- 喫煙エリア
+
+    - アルコタワー地下1Fにございます。詳細は[こちら](/images/smoking_area.png)をご覧ください。
+
+- 昼食
+
+    - 昼食は各自でとっていただくようにお願いいたします。
+    - お弁当が買える場所 : 
+
+        - 1F: ファミリーマート
+        - 2F: 社員食堂 (3ma) ※ AWS 社員のエスコートが必要です
+
+            ![](/images/lunch_box.png){loading="lazy" width="600"}
+
+- 緊急時の避難経路等
+
+    - 19Fの緊急時の避難経路や消火設備等の情報については[こちら](/files/exit_path_19f.pdf)をご覧ください。
