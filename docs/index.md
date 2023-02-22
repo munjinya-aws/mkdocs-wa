@@ -77,10 +77,9 @@ hide:
 ## 受講者へのお願い
 
 * Googleアカウントの準備
-    * 個人/グループワーク作業において、パワーポイントの作成/編集時に Googleスライド を使用します。<br /> これに伴い、「Googleアカウント(個人用可)」が必要となりますので事前にご準備ください。
-        * [参考:「Google アカウントの作成」](https://support.google.com/accounts/answer/27441?hl=ja)
-        * [参考:「Google スライド」](https://www.google.com/intl/ja_jp/slides/about/#overview)
-    * Googleスライドの使用方法については、「DAY1 はじめに」資料内の「Googleスライドの使用方法」をご参照ください。
+    * 個人/グループワーク作業において、パワーポイントの作成/編集時に [Googleスライド](https://www.google.com/intl/ja_jp/slides/about/#overview) を使用します。<br /> これに伴い、「Googleアカウント(個人用可)」が必要となりますので事前にご準備ください。
+        * [参考：Google アカウントの作成](https://support.google.com/accounts/answer/27441?hl=ja)
+    * 本ブートキャンプにおけるGoogleスライドの活用方法については、「DAY1 はじめに」資料内の「Googleスライドの使用方法」をご参照ください。
 
 
 ## その他
