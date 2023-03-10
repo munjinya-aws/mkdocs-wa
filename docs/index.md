@@ -68,8 +68,8 @@ hide:
 ------------------------------------------------------------ | ------------------------------------------------------------ |
 | オープニング、概要説明| [アーキテクチャ図の描き方](/files/アーキテクチャ図の描き方.pptx)                 | |
 | 個人、グループワーク         |<a href="/files/Task.pdf" target="_blank" rel="noopener noreferrer">課題</a> <br> [要件・設計マトリクス](/files/要件設計マトリックス.pptx) <br> [AWSサービスのアイコン一覧](/files/icon_lists.pptx)<br>     |
-| 成果発表会   | [チームAurora](/files/提案ブートキャンプ作成物_Aurora.pptx)<br>    [チームBatch](/files/提案ブートキャンプ作成物_Batch.pptx)<br>    [チームCognito](/files/提案ブートキャンプ作成物_Cognito.pptx)<br>    [チームDynamo](/files/提案ブートキャンプ作成物_Dynamo.pptx)<br>    
-| 模範解答紹介   | [回答例](/files/課題の回答例.pdf)|
+| 成果発表会   | [チーム Aurora](/files/提案ブートキャンプ作成物_Aurora.pptx)<br>    [チーム Batch](/files/提案ブートキャンプ作成物_Batch.pptx)<br>    [チーム Cognito](/files/提案ブートキャンプ作成物_Cognito.pptx)<br>    [チーム Dynamo](/files/提案ブートキャンプ作成物_Dynamo.pptx)<br>    
+| 模範解答紹介   | [回答例](/files/課題の回答例.pdf)<br>   <span style="color: red; ">本課題及び回答例は3月下旬の別回でも使用されます。未受講者への回答例の展開は行わないようお願いいたします。</span>|
 
 !!! 補足
         * 後日、成果発表会で用いた作成物にAWSメンバーよりフィードバックを加えた上で、受講者様宛に送付予定です。
