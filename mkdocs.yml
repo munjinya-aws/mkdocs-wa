@@ -31,7 +31,6 @@ markdown_extensions:
   - attr_list
   - admonition
   - pymdownx.superfences
-  - fontawesome_markdown
 
 extra_css:
   - "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css"
