@@ -74,13 +74,13 @@ hide:
         * [Googleスライド(PowerPointの代替)](https://www.google.com/intl/ja_jp/slides/about/#overview)    
 
 
-| チーム名     |アカウント情報                                                 |
------------------------------------------------------------- | ------------------------------------------ |
-| チーム Aurora| xxx@xxx | 
-| チーム Batch| xxx@xxx| 
-| チーム Cognito| xxx@xxx| 
-| チーム Dynamo| xxx@xxx| 
-| チーム Elb| xxx@xxx| 
+| チーム名     |アカウント名                                              |パスワード |
+------------------------------------------------------------ | ------------------------------------------ |------------------------------------------ |
+| チーム Aurora| aws.waworkshop.aurora@gmail.com | WAworkshop2023|
+| チーム Batch|  aws.waworkshop.batch@gmail.com | WAworkshop2023|
+| チーム Cognito| aws.waworkshop.cognito@gmail.com | WAworkshop2023|
+| チーム Dynamo|  aws.waworkshop.dynamo@gmail.com | WAworkshop2023|
+| チーム Elb|  aws.waworkshop.elb@gmail.com | WAworkshop2023|
 
 *  <span style="color: red; ">(2)課題への事前取り組み</span>
      * 個人ワークのタスク量が多いため、お時間が取れる方は、ワークショップ前に課題の読み込みやAs-Isの整理を実施ください。
