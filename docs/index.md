@@ -55,7 +55,7 @@ hide:
 
 | 種別     |内容                                                 |資材                                                 |
 ------------------------------------------------------------ | ------------------------------------------ |------------------------------------------------------------ |
-| オープニング、WA概要説明| ワークショップの目的・概要を説明 <br>W-Aの概要を説明                   | オープニング資料<br>[Well-Architected Frameworkのご紹介(pdf)](/files/Well-Architected Frameworkのご紹介.pdf)|
+| オープニング、WA概要説明| ワークショップの目的・概要を説明 <br>W-Aの概要を説明                   | [当日運営用の資料(pdf)](/files/WAworkshop_当日用資料.pdf)<br>[Well-Architected Frameworkのご紹介(pdf)](/files/Well-Architected Frameworkのご紹介.pdf)|
 | 個人ワーク        | 課題の読み込みと As-Is(現状)の整理を実施 <br>余裕があれば、To-Be(あるべき姿)の検討を着手  |[WAworkshop_課題への取り組み方(pdf)](/files/WAworkshop_課題への取り組み方.pdf) <br>[ワークショップ課題(pdf)](/files/ワークショップ課題.pdf) <br>[レビューチェックシート(xlsx)](/files/レビューチェックシート.xlsx)<br>[レビュー観点説明資料(pptx)](/files/レビュー観点説明資料.pptx)<br>[レビュー観点説明資料(pdf)](/files/レビュー観点説明資料.pdf)<br>|
 | グループワーク  | 各チーム毎に、To-Beの検討をディスカッションしながら進める <br>適宜、質問事項等がある場合にはAWS講師がサポートします|個人ワークと同様|
 | 検討内容の発表   | 各グループで検討したAs-IsとTo-Beを項目を絞って発表し、質疑応答を実施|更新版レビューチェックシート<br>(オプション)発表用スライド|
@@ -69,7 +69,6 @@ hide:
     * 編集した資料はチーム共通のGoogleアカウント内に保管をお願いします。<br>
     * <span style="color: red; ">個人/グループワーク作業において、Officeソフト(Word/Excel/PowerPoint)の閲覧/編集時に以下ツールを使用します。</span>
       <br>※貸出PCにOfficeソフトのインストールが不可であるため。
-        * [Googleドキュメント(Wordの代替)](https://www.google.com/intl/ja_jp/docs/about/) 
         * [Googleスプレッドシート(Excelの代替)](https://www.google.com/intl/ja_jp/sheets/about/) 
         * [Googleスライド(PowerPointの代替)](https://www.google.com/intl/ja_jp/slides/about/#overview)    
 
