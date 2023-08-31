@@ -70,7 +70,10 @@ hide:
     * <span style="color: red; ">個人/グループワーク作業において、Officeソフト(Word/Excel/PowerPoint)の閲覧/編集時に以下ツールを使用します。</span>
       <br>※貸出PCにOfficeソフトのインストールが不可であるため。
         * [Googleスプレッドシート(Excelの代替)](https://www.google.com/intl/ja_jp/sheets/about/) 
-        * [Googleスライド(PowerPointの代替)](https://www.google.com/intl/ja_jp/slides/about/#overview)    
+             * Googleアカウントにログインし、[右上のGoogleアプリ] - [スプレッドシート] - [➕(空白)] - [ファイル] - [インポート] - [アップロード] にて端末のファイルをアップロード可能 
+        * [Googleスライド(PowerPointの代替)](https://www.google.com/intl/ja_jp/slides/about/#overview) 
+             * Googleアカウントにログインし、[右上のGoogleアプリ] - [スライド] - [➕(空白)] - [ファイル] - [スライドをインポート] - [アップロード] にて端末のファイルをアップロード可能 
+                 
 
 
 | チーム名     |アカウント名                                              |パスワード |
@@ -79,7 +82,7 @@ hide:
 | チーム Batch|  aws.waworkshop.batch@gmail.com | WAworkshop2023|
 | チーム Cognito| aws.waworkshop.cognito@gmail.com | WAworkshop2023|
 | チーム Dynamo|  aws.waworkshop.dynamo@gmail.com | WAworkshop2023|
-| チーム Elb|  aws.waworkshop.elb@gmail.com | WAworkshop2023|
+| チーム Elb|  リモート参加のためアカウント無し | リモート参加のためアカウント無し|
 
 *  <span style="color: red; ">(2)課題への事前取り組み</span>
      * 個人ワークのタスク量が多いため、お時間が取れる方は、ワークショップ前に課題の読み込みやAs-Isの整理を実施ください。実施するタスクの詳細については、「実施内容と資材」 - 「個人ワーク」からリンクされた「WAworkshop_課題への取り組み方(pdf)」を参照ください。
